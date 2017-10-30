@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	background: #e9daf7;
+}
+h1{
+	text-align: center;
+    color: #522979;
+    background: #a3b5b5;
+}
+table{
+    border-collapse: collapse;
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+    background: #cacece;
+    font-size: 20px;
+}
+tr{
+
+}
+th{
+	border: 2px solid white;
+	color: #cde6fb;
+}
+td{
+
+    border: 2px solid white;
+}
+.table-head{
+    background: #b575f1;
+}
+.blue{
+    background: #e1b9f3;
+}
+.purple{
+	background: #b1a9c7;
+}
